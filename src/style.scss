@@ -100,13 +100,13 @@ body {
   bottom: 2.2em;
 }
 
-.lineTop .spin {
+.lineTop.spin {
   top: 2.35em;
   transform: rotate(135deg);
   background-color: #fff;
 }
 
-.lineBottom .spin {
+.lineBottom.spin {
   top: 2.35em;
   transform: rotate(225deg);
   background-color: #fff;
