@@ -198,7 +198,11 @@ ul.nav-links li a {
 @media (max-width: 900px) {
   
   ul.nav-links li a {
-    font-size: 5em;
+    font-size: 4em;
+  }
+
+  ul.nav-links {
+    align-items: start;
   }
 
   .location {
@@ -206,7 +210,7 @@ ul.nav-links li a {
   }
 
   .nav-footer {
-    justify-content: space-around;
+    justify-content: space-between;
   }
 
   .nav-social-media ul li a {
